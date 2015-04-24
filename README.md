@@ -1,6 +1,6 @@
 # instaweb
 
-A command to serve a .html file as quickly as possible.
+A command to quickly serve a static file.  Similar to *python -m SimpleHTTPServer*.
 
 [![Build Status](https://travis-ci.org/russmack/instaweb.svg?branch=master)](https://travis-ci.org/russmack/instaweb)
 
